@@ -10,6 +10,5 @@ func TestCompareArray(t *testing.T) {
 
 	// 数组和类型相同可以比较
 	t.Log(a == b)
-	//t.Log(a == c)
 	t.Log(c == d)
 }
